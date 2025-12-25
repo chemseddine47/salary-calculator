@@ -5,9 +5,9 @@ A legacy **Java GUI application** originally created with **NetBeans** in June 2
 ---
 
 ## 🖼️ Screenshots
-| Image 1: Dashboard | Image 2: inside a class | Image 3: calculation result |
+| Image 1: Dashboard | Image 2: Inside a Class | Image 3: Calculation Result |
 | :---: | :---: | :---: |
-| ![Image 1](image1.png) | ![Image 2](image2.png) | ![Image 3](image3.png) |
+| <img src="images/image1.png" width="300px"> | <img src="images/image2.png" width="300px"> | <img src="images/image3.png" width="300px"> |
 
 ---
 
